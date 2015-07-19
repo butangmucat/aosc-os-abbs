@@ -1,6 +1,6 @@
 PKGNAME=boost
 PKGDES="Boost C++ libs"
-PKGDEP="python-2 bzip2 zlib icu openmpi"
+PKGDEP="python-2 bzip2 zlib icu"
 PKGSEC=libs
 AUTOTOOLS_AFTER=
 
