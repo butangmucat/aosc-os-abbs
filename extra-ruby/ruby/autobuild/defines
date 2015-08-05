@@ -1,0 +1,7 @@
+PKGNAME=ruby
+PKGDES="Ruby - an object-oriented language for quick and easy programming"
+PKGSEC=ruby
+PKGDEP="gdbm openssl libffi yaml gmp zlib"
+
+USECLANG=yes
+CHECK=yes
